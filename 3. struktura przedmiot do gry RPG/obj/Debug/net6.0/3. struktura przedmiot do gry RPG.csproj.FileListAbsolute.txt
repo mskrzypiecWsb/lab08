@@ -1,0 +1,15 @@
+D:\VS\Projects\lab08\3. struktura przedmiot do gry RPG\bin\Debug\net6.0\3. struktura przedmiot do gry RPG.exe
+D:\VS\Projects\lab08\3. struktura przedmiot do gry RPG\bin\Debug\net6.0\3. struktura przedmiot do gry RPG.deps.json
+D:\VS\Projects\lab08\3. struktura przedmiot do gry RPG\bin\Debug\net6.0\3. struktura przedmiot do gry RPG.runtimeconfig.json
+D:\VS\Projects\lab08\3. struktura przedmiot do gry RPG\bin\Debug\net6.0\3. struktura przedmiot do gry RPG.dll
+D:\VS\Projects\lab08\3. struktura przedmiot do gry RPG\bin\Debug\net6.0\3. struktura przedmiot do gry RPG.pdb
+D:\VS\Projects\lab08\3. struktura przedmiot do gry RPG\obj\Debug\net6.0\3. struktura przedmiot do gry RPG.csproj.AssemblyReference.cache
+D:\VS\Projects\lab08\3. struktura przedmiot do gry RPG\obj\Debug\net6.0\3. struktura przedmiot do gry RPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Projects\lab08\3. struktura przedmiot do gry RPG\obj\Debug\net6.0\3. struktura przedmiot do gry RPG.AssemblyInfoInputs.cache
+D:\VS\Projects\lab08\3. struktura przedmiot do gry RPG\obj\Debug\net6.0\3. struktura przedmiot do gry RPG.AssemblyInfo.cs
+D:\VS\Projects\lab08\3. struktura przedmiot do gry RPG\obj\Debug\net6.0\3. struktura przedmiot do gry RPG.csproj.CoreCompileInputs.cache
+D:\VS\Projects\lab08\3. struktura przedmiot do gry RPG\obj\Debug\net6.0\3. struktura przedmiot do gry RPG.dll
+D:\VS\Projects\lab08\3. struktura przedmiot do gry RPG\obj\Debug\net6.0\refint\3. struktura przedmiot do gry RPG.dll
+D:\VS\Projects\lab08\3. struktura przedmiot do gry RPG\obj\Debug\net6.0\3. struktura przedmiot do gry RPG.pdb
+D:\VS\Projects\lab08\3. struktura przedmiot do gry RPG\obj\Debug\net6.0\3. struktura przedmiot do gry RPG.genruntimeconfig.cache
+D:\VS\Projects\lab08\3. struktura przedmiot do gry RPG\obj\Debug\net6.0\ref\3. struktura przedmiot do gry RPG.dll

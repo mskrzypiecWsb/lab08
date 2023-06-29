@@ -1,0 +1,15 @@
+D:\VS\Projects\lab08\4. struktura student\bin\Debug\net6.0\4. struktura student.exe
+D:\VS\Projects\lab08\4. struktura student\bin\Debug\net6.0\4. struktura student.deps.json
+D:\VS\Projects\lab08\4. struktura student\bin\Debug\net6.0\4. struktura student.runtimeconfig.json
+D:\VS\Projects\lab08\4. struktura student\bin\Debug\net6.0\4. struktura student.dll
+D:\VS\Projects\lab08\4. struktura student\bin\Debug\net6.0\4. struktura student.pdb
+D:\VS\Projects\lab08\4. struktura student\obj\Debug\net6.0\4. struktura student.csproj.AssemblyReference.cache
+D:\VS\Projects\lab08\4. struktura student\obj\Debug\net6.0\4. struktura student.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Projects\lab08\4. struktura student\obj\Debug\net6.0\4. struktura student.AssemblyInfoInputs.cache
+D:\VS\Projects\lab08\4. struktura student\obj\Debug\net6.0\4. struktura student.AssemblyInfo.cs
+D:\VS\Projects\lab08\4. struktura student\obj\Debug\net6.0\4. struktura student.csproj.CoreCompileInputs.cache
+D:\VS\Projects\lab08\4. struktura student\obj\Debug\net6.0\4. struktura student.dll
+D:\VS\Projects\lab08\4. struktura student\obj\Debug\net6.0\refint\4. struktura student.dll
+D:\VS\Projects\lab08\4. struktura student\obj\Debug\net6.0\4. struktura student.pdb
+D:\VS\Projects\lab08\4. struktura student\obj\Debug\net6.0\4. struktura student.genruntimeconfig.cache
+D:\VS\Projects\lab08\4. struktura student\obj\Debug\net6.0\ref\4. struktura student.dll
